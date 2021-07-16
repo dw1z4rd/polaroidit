@@ -1,0 +1,19 @@
+{
+  "name": "polaroidit",
+  "version": "1.0.0",
+  "description": "A node.js package that takes any image and generates a polaroid version of it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/segfault-philosopher/polaroidit.git"
+  },
+  "author": "Ian Buchanan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/segfault-philosopher/polaroidit/issues"
+  },
+  "homepage": "https://github.com/segfault-philosopher/polaroidit#readme"
+}
