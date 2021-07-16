@@ -1,4 +1,4 @@
-function polaroid(options) {
+function polaroidit(options) {
     let images = document.querySelectorAll('.polaroid');
     if(options.shadow_type === 'hard')
         options.shadow_type = '0px';
@@ -13,4 +13,4 @@ function polaroid(options) {
     })
 }
 
-module.exports.polaroid = polaroid;
+module.exports.polaroidit = polaroidit;
